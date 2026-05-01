@@ -73,7 +73,7 @@ A DAG (`Atividade_ETL_F1_Kaggle`) é composta por quatro tarefas principais, exe
 ### 1. Clonar o Repositório e Iniciar o Airflow
 ```bash
 # Clone o repositório
-git clone [https://github.com/SEU_USUARIO/nome-do-repositorio.git](https://github.com/Csantos88/ETL_Faculdade.git)
+git clone https://github.com/Csantos88/ETL_Faculdade.git
 cd nome-do-repositorio
 
 # Inicie o ambiente do Airflow usando a imagem oficial do Docker
