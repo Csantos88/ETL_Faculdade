@@ -1,0 +1,11 @@
+# Arquivos de Dados Temporários e Processados
+data/
+*.csv
+*.json
+
+# Logs do Apache Airflow
+logs/
+
+# Artefatos Python
+__pycache__/
+*.pyc
